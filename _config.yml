@@ -53,7 +53,7 @@ additional_links:
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   I'm a seasoned Senior DevOps Engineer with over a decade of experience, constantly honing my tech wizardry. By day, I work my magic in the world of technology, ensuring systems run seamlessly and efficiently. In my spare time, I switch gears to a different kind of adventure – playing PS4 with my kids. When it comes to technology and gaming, I'm always up for the next challenge and adventure. Let's explore the digital world together!
-    - Images ![alt text](/images/landscape-trees.jpg "Trees")
+ #   - Images ![alt text](/images/landscape-trees.jpg "Trees")
 
 content:
   - title: Projects # Title for the section
