@@ -12,7 +12,7 @@ email: dan.ahmed@live.com
 # email_title: Email (Email title override)
 phone: +92 345 239 5630
 # phone_title: Phone (Phone title override)
-website: Your website (eg. https://google.com)(optional)
+# website: Your website (eg. https://google.com)(optional)
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
@@ -26,7 +26,7 @@ github_username:  danish21385
 #facebook_username: jekyll
 #flickr_username: jekyll
 #instagram_username: jekyll
-linkedin_username: danahmed
+linkedin_username: https://www.linkedin.com/in/itmandanish/
 #xing_username: jekyll
 #pinterest_username: jekyll
 #youtube_username: jekyll
