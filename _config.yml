@@ -50,14 +50,9 @@ additional_links:
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: /images/profile.jpg
+about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
-
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
+  I'm a seasoned Senior DevOps Engineer with over a decade of experience, constantly honing my tech wizardry. By day, I work my magic in the world of technology, ensuring systems run seamlessly and efficiently. In my spare time, I switch gears to a different kind of adventure – playing PS4 with my kids. When it comes to technology and gaming, I'm always up for the next challenge and adventure. Let's explore the digital world together!
     - Images ![alt text](/images/landscape-trees.jpg "Trees")
 
 content:
