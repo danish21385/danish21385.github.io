@@ -76,8 +76,11 @@ content:
           Configured and deployed AKS cluster.
         description: > # this will include new lines to allow paragraphs
           Technologies: Kubernetes, Azure Kubernetes Service (AKS).
+
           Challenges: To Minimize administrative overhead, fast deployments and adoption of new technologies.
+
           Outcome: Successfully deployed containerized applications with improved scalability and ease of management.
+          
   - title: Experience
     layout: list
     content:
