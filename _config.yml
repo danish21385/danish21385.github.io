@@ -73,8 +73,8 @@ content:
         #     icon: fab fa-github
         #     url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         quote: >
-          Configured and deployed AKS cluster in staging and production
-        description: | # this will include new lines to allow paragraphs
+          Configured and deployed AKS cluster.
+        description: > # this will include new lines to allow paragraphs
           Technologies: Kubernetes, Azure Kubernetes Service (AKS)
           Challenges: To Minimize administrative overhead, fast deployments and adoption of new technologies
           Outcome: Successfully deployed containerized applications with improved scalability and ease of management
